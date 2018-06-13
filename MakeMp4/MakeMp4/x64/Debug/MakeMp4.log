@@ -1,0 +1,6 @@
+﻿  makemp4.cpp
+c:\users\jh\source\repos\makemp4\makemp4\makemp4.cpp(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jh\source\repos\makemp4\makemp4\makemp4.cpp(99): warning C4244: '=': 'float'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jh\source\repos\makemp4\makemp4\makemp4.cpp(109): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\jh\source\repos\makemp4\makemp4\makemp4.cpp(110): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  MakeMp4.vcxproj -> C:\Users\jh\source\repos\MakeMp4\x64\Debug\MakeMp4.exe
